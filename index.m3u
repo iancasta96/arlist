@@ -1,0 +1,321 @@
+#EXTM3U
+#EXTINF:108, telefe alternativo
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:24,El trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,El Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:15, Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:0, IP TV
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
+#EXTINF:0, Terramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0, Music TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:60, Encuentro
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
+#EXTINF:25, MTV Biggest Pop
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:60,Bein Sports Extra Ñ
+http://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
+#EXTINF:60,Claro Sports
+http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
+#EXTINF:59,Claro Sports - !3
+http://tv.teleclub.xyz/club/server_3/deportes/clarosports/index.m3u8
+#EXTINF:60,Directv Sports
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
+#EXTINF:58,Directv Sports +
+http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
+#EXTINF:55,Directv Sports 2
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
+#EXTINF:58,ESPN 1
+http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
+#EXTINF:60,ESPN 2
+http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
+#EXTINF:60,ESPN 3
+http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
+#EXTINF:60,ESPN 4
+http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
+#EXTINF:54,ESPN 5
+http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
+#EXTINF:60,ESPN Premium
+http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+#EXTINF:0,Fox Sports 1
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
+#EXTINF:60,Fox Sports 2
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
+#EXTINF:60,Fox Sports 2 MX - !3
+http://tv.teleclub.xyz/club/server_3/deportes/foxsports2mx/index.m3u8
+#EXTINF:0,Fox Sports 3
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
+#EXTINF:61,Gol Peru
+http://tv.teleclub.xyz/club/server_1/deportes/golperu/index.m3u8
+#EXTINF:60,Gol TV
+http://tv.teleclub.xyz/club/server_1/deportes/goltv/index.m3u8
+#EXTINF:0,L1 Max
+http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
+#EXTINF:0,Liga 1
+http://tv.teleclub.xyz/club/server_1/deportes/liga1/index.m3u8
+#EXTINF:0,Liga 1 Max
+http://tv.teleclub.xyz/club/server_1/deportes/liga1max/index.m3u8
+#EXTINF:0,NBA
+http://tv.teleclub.xyz/club/server_1/deportes/nba/index.m3u8
+#EXTINF:0,NFL Network
+http://tv.teleclub.xyz/club/server_1/deportes/nflnetwork/index.m3u8
+#EXTINF:60,TNT Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
+#EXTINF:0,TUDN
+http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
+#EXTINF:0,TUDN VIX +
+http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
+#EXTINF:0,TyC Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
+#EXTINF:0,Win Sports - !3
+http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
+#EXTINF:0,Win Sports Plus
+http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
+#EXTINF:0,Win Sports Plus - !3
+http://tv.teleclub.xyz/club/server_3/deportes/winsportsplus/index.m3u8
+#EXTINF:52,ATV
+http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
+#EXTINF:0,America TV
+http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
+#EXTINF:0,CNN en Español
+http://tv.teleclub.xyz/club/server_2/mundo/cnnenespanol/index.m3u8
+#EXTINF:59,Canal 5
+http://tv.teleclub.xyz/club/server_2/mundo/canal5/index.m3u8
+#EXTINF:59,Caracol
+http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
+#EXTINF:60,DW Channel
+http://tv.teleclub.xyz/club/server_2/mundo/dwchannel/index.m3u8
+#EXTINF:59,E!
+http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
+#EXTINF:60,El Trece
+http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
+#EXTINF:60,Galavision
+http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8
+#EXTINF:60,Imagen MX
+http://tv.teleclub.xyz/club/server_2/mundo/imagenmx/index.m3u8
+#EXTINF:60,Las Estrellas
+http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8
+#EXTINF:60,Latina TV
+http://tv.teleclub.xyz/club/server_2/mundo/latina/index.m3u8
+#EXTINF:60,Once TV
+http://tv.teleclub.xyz/club/server_2/mundo/oncetv/index.m3u8
+#EXTINF:60,RCN
+http://tv.teleclub.xyz/club/server_2/mundo/rcn/index.m3u8
+#EXTINF:20,RCN - !3
+http://tv.teleclub.xyz/club/server_3/mundo/rcn/index.m3u8
+#EXTINF:60,RT en Español
+http://tv.teleclub.xyz/club/server_2/mundo/rtenespanol/index.m3u8
+#EXTINF:0,Telefe
+http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
+#EXTINF:60,Cartoon Network
+http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8
+#EXTINF:59,Cartoon Network - !3
+http://tv.teleclub.xyz/club/server_3/infantil/cartoonnetwork/index.m3u8
+#EXTINF:60,Cartoonito
+http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
+#EXTINF:60,Discovery Kids
+http://tv.teleclub.xyz/club/server_2/infantil/discoverykids/index.m3u8
+#EXTINF:59,Discovery Kids - !3
+http://tv.teleclub.xyz/club/server_3/infantil/discoverykids/index.m3u8
+#EXTINF:60,Disney Channel
+http://tv.teleclub.xyz/club/server_2/infantil/disneychannel/index.m3u8
+#EXTINF:0,Disney Channel - !3
+http://tv.teleclub.xyz/club/server_3/infantil/disneychannel/index.m3u8
+#EXTINF:0,Disney JR
+http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8
+#EXTINF:0,Nick
+http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
+#EXTINF:0,Tooncast
+http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
+#EXTINF:0,Animal Planet
+http://tv.teleclub.xyz/club/server_2/cultura/animalplanet/index.m3u8
+#EXTINF:0,Disccovery ID
+http://tv.teleclub.xyz/club/server_2/cultura/disccoveryid/index.m3u8
+#EXTINF:0,Discovery Channel
+http://tv.teleclub.xyz/club/server_2/cultura/discoverychannel/index.m3u8
+#EXTINF:0,Discovery Familia
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryfamilia/index.m3u8
+#EXTINF:0,Discovery H&H
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryh_h/index.m3u8
+#EXTINF:0,Discovery Science
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryscience/index.m3u8
+#EXTINF:0,Discovery Theater
+http://tv.teleclub.xyz/club/server_2/cultura/discoverytheater/index.m3u8
+#EXTINF:0,Discovery Turbo
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
+#EXTINF:0,Discovery World
+http://tv.teleclub.xyz/club/server_2/cultura/discoveryworld/index.m3u8
+#EXTINF:0,El Gourmet
+http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
+#EXTINF:0,H2
+http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
+#EXTINF:0,History
+http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
+#EXTINF:0,History - !3
+http://tv.teleclub.xyz/club/server_3/cultura/history/index.m3u8
+#EXTINF:0,NatGeo Mundo
+http://tv.teleclub.xyz/club/server_2/cultura/natgeomundo/index.m3u8
+#EXTINF:0,National Geographic
+http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8
+#EXTINF:0,A&E
+http://tv.teleclub.xyz/club/server_2/entretenimiento/a_e/index.m3u8
+#EXTINF:0,AMC
+http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8
+#EXTINF:0,AXN
+http://tv.teleclub.xyz/club/server_2/entretenimiento/axn/index.m3u8
+#EXTINF:0,AXN - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/axn/index.m3u8
+#EXTINF:0,Adult Swim
+http://tv.teleclub.xyz/club/server_2/entretenimiento/adultswim/index.m3u8
+#EXTINF:0,Antena 3 Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/antena3series/index.m3u8
+#EXTINF:0,Cinecanal
+http://tv.teleclub.xyz/club/server_2/entretenimiento/cinecanal/index.m3u8
+#EXTINF:0,Cinecanal - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
+#EXTINF:0,Cinemax
+http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
+#EXTINF:0,Cinemax - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/cinemax/index.m3u8
+#EXTINF:0,Comedy Central
+http://tv.teleclub.xyz/club/server_2/entretenimiento/comedycentral/index.m3u8
+#EXTINF:0,DHE
+http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
+#EXTINF:0,De Pelicula
+http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
+#EXTINF:0,Distrito Comedia
+http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8
+#EXTINF:0,Distrito Comedia - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/distritocomedia/index.m3u8
+#EXTINF:0,FX
+http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
+#EXTINF:0,FX - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/fx/index.m3u8
+#EXTINF:0,Golden
+http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
+#EXTINF:0,Golden - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/golden/index.m3u8
+#EXTINF:0,Golden Edge
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+#EXTINF:0,Golden Plus
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
+#EXTINF:0,Golden Premier
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
+#EXTINF:0,Golden Premier - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/goldenpremier/index.m3u8
+#EXTINF:0,Golden Premier 2
+http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
+#EXTINF:0,HBO
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo/index.m3u8
+#EXTINF:0,HBO 2
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo2/index.m3u8
+#EXTINF:0,HBO Family
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbofamily/index.m3u8
+#EXTINF:0,HBO Mundi
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbomundi/index.m3u8
+#EXTINF:0,HBO Plus
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hboplus/index.m3u8
+#EXTINF:0,HBO Pop
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbopop/index.m3u8
+#EXTINF:0,HBO Signature
+http://tv.teleclub.xyz/club/server_2/entretenimiento/hbosignature/index.m3u8
+#EXTINF:0,Multipremier
+http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
+#EXTINF:0,Paramount Network
+http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
+#EXTINF:0,Sony
+http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8
+#EXTINF:0,Sony - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/sony/index.m3u8
+#EXTINF:0,Sony Cine
+http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
+#EXTINF:0,Space
+http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
+#EXTINF:0,Space - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/space/index.m3u8
+#EXTINF:0,Star Action
+http://tv.teleclub.xyz/club/server_2/entretenimiento/staraction/index.m3u8
+#EXTINF:0,Star Channel
+http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
+#EXTINF:0,Star Channel - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/starchannel/index.m3u8
+#EXTINF:0,Star Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/starseries/index.m3u8
+#EXTINF:0,Studio Universal
+http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
+#EXTINF:0,Studio Universal - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/studiouniversal/index.m3u8
+#EXTINF:0,Syfy
+http://tv.teleclub.xyz/club/server_2/entretenimiento/syfy/index.m3u8
+#EXTINF:0,TNT
+http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8
+#EXTINF:0,TNT Series
+http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
+#EXTINF:0,TNT Series - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/tntseries/index.m3u8
+#EXTINF:0,Universal Cinema
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
+#EXTINF:0,Universal Premiere
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u8
+#EXTINF:0,Universal TV
+http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
+#EXTINF:0,Universal TV - !3
+http://tv.teleclub.xyz/club/server_3/entretenimiento/universaltv/index.m3u8
+#EXTINF:0,Warner Channel
+http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannel/index.m3u8
+#EXTINF:0,Warner Channel (México)
+http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannelmexico/index.m3u8
+#EXTINF:0,Ben 10
+http://tv.teleclub.xyz/club/server_2/24_7/ben10/index.m3u8
+#EXTINF:0,Bob Esponja
+http://tv.teleclub.xyz/club/server_2/24_7/bobesponja/index.m3u8
+#EXTINF:0,Caso Cerrado
+http://tv.teleclub.xyz/club/server_2/24_7/casocerrado/index.m3u8
+#EXTINF:0,Chapulin Colorado
+http://tv.teleclub.xyz/club/server_2/24_7/chapulincolorado/index.m3u8
+#EXTINF:0,Chespirito
+http://tv.teleclub.xyz/club/server_2/24_7/chespirito/index.m3u8
+#EXTINF:0,Correcaminos
+http://tv.teleclub.xyz/club/server_2/24_7/correcaminos/index.m3u8
+#EXTINF:0,Dinosaurios
+http://tv.teleclub.xyz/club/server_2/24_7/dinosaurios/index.m3u8
+#EXTINF:0,Dragon Ball Super
+http://tv.teleclub.xyz/club/server_2/24_7/dragonballsuper/index.m3u8
+#EXTINF:0,El príncipe del Rap
+http://tv.teleclub.xyz/club/server_2/24_7/elprincipedelrap/index.m3u8
+#EXTINF:0,Familia Peluche
+http://tv.teleclub.xyz/club/server_2/24_7/familiapeluche/index.m3u8
+#EXTINF:0,Los Picapiedras
+http://tv.teleclub.xyz/club/server_2/24_7/lospicapiedras/index.m3u8
+#EXTINF:0,Los Simpsons
+http://tv.teleclub.xyz/club/server_2/24_7/lossimpsons/index.m3u8
+#EXTINF:0,Padrinos Mágicos
+http://tv.teleclub.xyz/club/server_2/24_7/padrinosmagicos/index.m3u8
+#EXTINF:0,Pitufos
+http://tv.teleclub.xyz/club/server_2/24_7/pitufos/index.m3u8
+#EXTINF:0,South Park
+http://tv.teleclub.xyz/club/server_2/24_7/southpark/index.m3u8
+#EXTINF:0,EnerGeek Radio !Ex
+http://tv.teleclub.xyz/club/server_url/musica/energeekradio/index.m3u8
+#EXTINF:0,HTV
+http://tv.teleclub.xyz/club/server_2/musica/htv/index.m3u8
+#EXTINF:0,MTV
+http://tv.teleclub.xyz/club/server_2/musica/mtv/index.m3u8
+#EXTINF:0,MTV Hits
+http://tv.teleclub.xyz/club/server_2/musica/mtvhits/index.m3u8
+#EXTINF:0,Music Top
+http://tv.teleclub.xyz/club/server_2/musica/musictop/index.m3u8
+#EXTINF:0,Telehit
+http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8
+#EXTINF:0,Top Latino
+http://tv.teleclub.xyz/club/server_2/musica/toplatino/index.m3u8
+#EXTINF:0,Evento 1 !Ex
+http://tv.teleclub.xyz/club/server_url/eventos/evento1/index.m3u8
+#EXTINF:0,Evento 2 !Ex
+http://tv.teleclub.xyz/club/server_url/eventos/evento2/index.m3u8
+#EXTINF:0,Evento 3 !Ex
+http://tv.teleclub.xyz/club/server_url/eventos/evento3/index.m3u8
